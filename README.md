@@ -46,6 +46,5 @@
 * (Rust) https://github.com/ZenGo-X/multi-party-ecdsa
 * (C++) https://github.com/unboundsecurity/blockchain-crypto-mpc
 * (Go) https://github.com/coinbase/kryptology
-* (Go) https://github.com/getamis/alice/blob/master/crypto/bip32/README.md
 * (Go) https://github.com/bnb-chain/tss-lib
 * (Go) https://github.com/getamis/alice
